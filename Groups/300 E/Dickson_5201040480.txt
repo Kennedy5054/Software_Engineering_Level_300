@@ -1,4 +1,4 @@
- QUE1: What is a software process model and why is it important in software development?
+ Q1: What is a software process model and why is it important in software development?
 
  ANSWER: A software process model is a framework that describes the various stages and activities involved
  in the development of software. It provides a systematic approach to software development
@@ -7,7 +7,7 @@
   They provide a structured approach to software development, which improves quality, reduces risk,
    and enhances communication and collaboration between team members.
 
-   QUE2: Compare and contrast the Waterfall and Agile software process models. 
+   Q2: Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
 
@@ -54,7 +54,7 @@ Requires a high level of customer involvement
 
 Overall, the choice between Waterfall and Agile models depends on the specific needs and requirements of the project. Waterfall is best suited for projects with well-defined objectives and requirements, while Agile is better for projects that require flexibility and adaptability.
 
-QUE3:What is Rational Unified Process (RUP), and 
+Q3:What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
